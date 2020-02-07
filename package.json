@@ -2,9 +2,7 @@
   "name": "organice",
   "version": "0.2.0",
   "private": true,
-  "engines": {
-    "node": "^12.13.1"
-  },
+
   "dependencies": {
     "bowser": "^2.7.0",
     "classnames": "^2.2.6",

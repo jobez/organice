@@ -1,5 +1,3 @@
-#!/bin/bash
-
 npx pegjs -o src/lib/headline_filter_parser.{js,grammar.pegjs}
 
 # The generated code of pegjs throws eslint warnings. Since it's not
